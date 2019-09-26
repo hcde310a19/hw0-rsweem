@@ -1,3 +1,7 @@
 # Description of your program (part 7)
+I would have the program read the text line by line and create a new line each time there is a space. Then the words from the text file would eventually all be on their own line. From there I would have the program count the number of lines. 
 
 # Reflection on writing your program (part 8)
+It was somewhat hard because I haven't problem-solved like this in a long time and found it difficult to simplify it into steps. I think it's satisfying than writing the code because I didn't have to worry about small technical errors that I might run into otherwise. 
+
+What I would like to get out of this course is an understanding of Python and to strengthen my coding skills overall, since I am starting with very little knowledge. 
